@@ -1,0 +1,5 @@
+names:
+- license_plate
+nc: 1
+train: C:/Users/Anirudh/Downloads/Vehicle Registration Plates.v2-licenseplatedatasetv1.yolov8/train/images
+val: C:/Users/Anirudh/Downloads/Vehicle Registration Plates.v2-licenseplatedatasetv1.yolov8/test/images
